@@ -1,0 +1,15 @@
+/Users/korrrdim/Downloads/TLS/TLS/bin/Debug/net6.0/TLS
+/Users/korrrdim/Downloads/TLS/TLS/bin/Debug/net6.0/TLS.deps.json
+/Users/korrrdim/Downloads/TLS/TLS/bin/Debug/net6.0/TLS.runtimeconfig.json
+/Users/korrrdim/Downloads/TLS/TLS/bin/Debug/net6.0/TLS.dll
+/Users/korrrdim/Downloads/TLS/TLS/bin/Debug/net6.0/ref/TLS.dll
+/Users/korrrdim/Downloads/TLS/TLS/bin/Debug/net6.0/TLS.pdb
+/Users/korrrdim/Downloads/TLS/TLS/obj/Debug/net6.0/TLS.csproj.AssemblyReference.cache
+/Users/korrrdim/Downloads/TLS/TLS/obj/Debug/net6.0/TLS.GeneratedMSBuildEditorConfig.editorconfig
+/Users/korrrdim/Downloads/TLS/TLS/obj/Debug/net6.0/TLS.AssemblyInfoInputs.cache
+/Users/korrrdim/Downloads/TLS/TLS/obj/Debug/net6.0/TLS.AssemblyInfo.cs
+/Users/korrrdim/Downloads/TLS/TLS/obj/Debug/net6.0/TLS.csproj.CoreCompileInputs.cache
+/Users/korrrdim/Downloads/TLS/TLS/obj/Debug/net6.0/TLS.dll
+/Users/korrrdim/Downloads/TLS/TLS/obj/Debug/net6.0/ref/TLS.dll
+/Users/korrrdim/Downloads/TLS/TLS/obj/Debug/net6.0/TLS.pdb
+/Users/korrrdim/Downloads/TLS/TLS/obj/Debug/net6.0/TLS.genruntimeconfig.cache
